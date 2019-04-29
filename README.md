@@ -1,0 +1,2 @@
+# ShinyApps
+Coleções de ShinyApps
