@@ -1,2 +1,2 @@
 # ShinyApps
-Coleções de ShinyApps
+Coleção de aplicações criadas em Shiny, Rstudio.
