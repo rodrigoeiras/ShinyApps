@@ -1,0 +1,12 @@
+name: Demo01
+title: Demo01
+username:
+account: eiras
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 898570
+bundleId: 2047686
+url: https://eiras.shinyapps.io/Demo01/
+when: 1556567403.12639
+asMultiple: FALSE
+asStatic: FALSE
