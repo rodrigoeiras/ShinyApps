@@ -4,8 +4,8 @@
 
 
 library(aws.s3)
-Sys.setenv("AWS_ACCESS_KEY_ID" = "AKIAJ76G3LZUPJJN4ARA",
-           "AWS_SECRET_ACCESS_KEY" = "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",
+Sys.setenv("AWS_ACCESS_KEY_ID" = "tt",
+           "AWS_SECRET_ACCESS_KEY" = "tt",
            "AWS_DEFAULT_REGION" = "sa-east-1")
 blist <- bucketlist()
 b <- 'iesbrazil'
