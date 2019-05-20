@@ -1,0 +1,12 @@
+name: SentimentAnalysis
+title: SentimentAnalysis
+username:
+account: eiras
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 898701
+bundleId: 2049765
+url: https://eiras.shinyapps.io/SentimentAnalysis/
+when: 1556633018.31188
+asMultiple: FALSE
+asStatic: FALSE
