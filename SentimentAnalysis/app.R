@@ -29,10 +29,10 @@ require(qdapRegex)
 
 
 #- API Twitter Conection
-api_key <- "sILmtvIwBWhVexvnDpZqprhSQ"
-api_secret <- "Aln19TcuYrEGGlIV80xRNIXDLkMBsl0NBaKmcuJfhxUDlSLg5Y"
-access_token <- "53513135-prwArxpW3L5OU7ldskjQOpjHqtXWr9azm5hUXnGQ5"
-access_secret <- "MxyWuM1g8OFpworxaYnVceAKWe82VvRrqHv6wLMh1EYQH"
+api_key <- ""
+api_secret <- ""
+access_token <- ""
+access_secret <- ""
 
 create_token(app = "rtweet-Mining1",api_key, api_secret, access_token, access_secret)
 
